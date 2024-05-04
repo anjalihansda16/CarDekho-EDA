@@ -28,15 +28,15 @@ The dataset contains information about used cars, including features like:
 
 1. **Understanding Data**: Checked dataset shape and information.
 2. **Data Cleaning**:
-- Converted columns to appropriate data types.
-- Handled missing values using imputation.
-- Removed duplicate entries.
-- Used feature transformation for required columns. 
+   - Converted columns to appropriate data types.
+   - Handled missing values using imputation.
+   - Removed duplicate entries.
+   - Used feature transformation for required columns. 
 3. **Exploratory Data Analysis**:
-- Analyzed distribution of numerical and categorical variables.
-- Detected outliers and visualized them.
-- Investigated correlations between numerical features.
-- Visualized how categorical data has affected the selling price of used cars.
+   - Analyzed distribution of numerical and categorical variables.
+   - Detected outliers and visualized them.
+   - Investigated correlations between numerical features.
+   - Visualized how categorical data has affected the selling price of used cars.
 4. **Insights**:
    - Found strong correlation between 'selling_price' and 'max_power', 'engine'.
    - Noted differences in selling price based on fuel type, transmission, and ownership history.
